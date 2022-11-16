@@ -1,0 +1,46 @@
+body{background-color: #899CF0;}
+
+#features{
+  border-radius: 25px;
+  padding: 7% 5% ;
+  margin-top: 10rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  margin-bottom: 10rem;
+  background-color:#ADBCE6;
+  position: relative;
+
+}
+
+.card{
+  background-color: #ADBCE6;
+
+  margin: 3%;
+  border-radius: 25px;
+  border-width: medium;
+  border-color: white;
+  position: relative;
+
+}
+
+
+h2{color:#ADBCE6;}
+
+h3{color: white;}
+
+p{color:white;}
+
+.btn{
+  background-color:#ADBCE6;
+  border-width: medium;
+  border-color: white;
+
+}
+
+
+
+.div1{
+  background-color: white;
+  border-radius: 25px;
+  text-align: center;
+}
